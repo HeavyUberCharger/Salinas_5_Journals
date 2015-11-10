@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Journal 11/10/15</title>
+</head>
+<body>
+<h1>What animation effects can CSS accomplish?</h1>
+<p>you can have a object or shape move around the screen by itself and 
+change color </p>
+
+<h1>What does transition do? </h1>
+<p>transition makes it were a shape or object can chance in some way, either
+by size,shape,form,color,ect... </p>
+
+
+</body>
+</html>
